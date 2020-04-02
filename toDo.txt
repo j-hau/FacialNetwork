@@ -1,0 +1,11 @@
+Facial recognition
+
+-Generates details live on webcam. (Done)
+-CNN puts plots on pictures of faces
+	-Dataset of pictures of faces with points on them
+-Measures lines between points
+-Stores average line lengths in database
+-Correlation coefficient between different records in database can be 'matching score' 
+-Threshold matching score to determine whether the person is in the database
+-If match is more likely, display info
+-Otherwise add to the database
